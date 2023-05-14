@@ -9,8 +9,6 @@ on:
   pull_request:
     branches: [ "test" ]
 
-permissions:
-  contents: read
 
 jobs:
   build:
